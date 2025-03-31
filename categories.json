@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "id": "1741970397319",
+      "name": "đồ ăn",
+      "description": "gồm các loại đồ ăn",
+      "isDeleted": false,
+      "createdAt": "2025-03-14T16:39:57.319Z",
+      "updatedAt": "2025-03-14T16:39:57.319Z"
+    },
+    {
+      "id": "1741970443979",
+      "name": "đồ uống",
+      "description": "gồm các loại trà sữa và cà phê",
+      "isDeleted": false,
+      "createdAt": "2025-03-14T16:40:43.979Z",
+      "updatedAt": "2025-03-14T16:40:43.979Z"
+    }
+  ]
+}
